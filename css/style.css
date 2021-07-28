@@ -133,15 +133,6 @@ body{
     color: #1ed760;
 }
 
-/* .foot-content .container5 li{
-    background-color: hotpink;
-    border-radius: 50%;
-    width: 35px;
-    height: 35px;
-    align-items:inherit;
-    z-index: -1;
-} */
-
 .container1{
     width: 15%;
 }
@@ -204,6 +195,7 @@ body{
 
 .foot-bottom .foot-right ul{
     text-align: flex;
+    line-height: 5px;
 }
 
 .foot-bottom .foot-right ul li{
